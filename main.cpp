@@ -80,5 +80,6 @@ int main() {
         getchar();
     }
     std::cout << "Hello,上海 World!你好" << std::endl;
+    std::cout << "Hello,上海 World!你好" << std::endl;
     return 0;
 }
