@@ -79,6 +79,6 @@ int main() {
         cout << "按下任意键继续" << endl;
         getchar();
     }
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello,上海 World!你好" << std::endl;
     return 0;
 }

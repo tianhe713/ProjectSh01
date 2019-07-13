@@ -40,7 +40,7 @@ add_executable(ProjectSh01
         TcpServer.cpp
         TcpServer.h
         TcpSocket.cpp
-        TcpSocket.h test.cpp)
+        TcpSocket.h)
 
 #使用如下语句完成库的链接操作：
 target_link_libraries(ProjectSh01 libssl.so libcrypto.so)
